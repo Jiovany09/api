@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "energy-of-water-default-rtdb",
+  "private_key_id": "fa56e2ee91f015c4a9db870d73c370d615a69347",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNTlxX6bXFvIqQ\nBjprYvrQwrcYUfSAcPEpsnvAik/XX/8wxcIhryH1XK0zmIBSZBdseJD4Fky3mrkX\navmI2dPjM2kGyfn2teIt8hTIMf6mL8HpmMvY9AMghMMJieS3TfpYwVGGSz4Rsn+J\n7z3eoSJOZvym5Dhsux0M30LqdyKoSJ+TKBS0BtIuxxtwRe9w08JbFslk9Hwb9cR6\ng8O7E3vnVXG3i4iASgtUlaX8RPmrJXyLjQBqVovNVxAwNnqtZFKgbjKwQoM1HKrF\nylFsKbl4nxNT59/HMa7x7GMna/OwH4uNEj2bBdcmSOwCioy9x+paYV9hihMJx+0d\nq0tyh29rAgMBAAECggEAUcwZsJEV8f1ne3Bv0B80bP5XMqJcdtwIyaMp+RFiNB40\nLztrWD5NmlNdUoQ9BBaK2pXCtIU19aT4f6MIXoTjDc+K1cCdDbVzsviTXRvGKHI4\noRhWh07Y/BjJGEDPVlUEHF6RW58Y0LY8aDlgfhXW9EPF/7xH2tJGBb3iDEaBEWh+\n+rwaq2Pnz9M3+VEXzcpSIyGd9pyffKLDX9OumtdU049IRX0g1bbz8js3MVAmEtQU\nSHJVNhDVVQDw9JDvxGKzyHE0ykV/DAKuP7RJGaM/3WCDkBcAaGvYo/qDUvY7QbyU\nSUWtkmdX0P4FRjzvKPEuXeHEeWcqOcaQRRlLjCpzSQKBgQDw/sw05D3K0VvJZhF3\nzkbZ//W0l7zyqLLp+RuGLVzwi3DLe/z2U/Og/fcUFXnmeESk0Ym1yESZ9WD+zW13\n/IK6vo3wmdqmdMxpYVZjjgSpkCYZSDLXkHFR/3ZRD+r6DabZZZqyfJgYqN50d+MN\nh/squFmVrDr0jQVucbudoMMlBQKBgQDaFrdLnWe4GY23RhbE2E5gZTXgD+PlPs5C\nv7F+cW2kk6EogSxeM8BuvRomIKUjbNH37bb1aQS5f/mJ/k1Q9JrN+yRMNe77ZP04\nZeiQIS7hkRzRIuOHa6Siy23F9PAu4dGSVzbYrgr5NF2cZLgrjSIVBxoCt/MwFi3w\njUXNq0ZtrwKBgDbj4gEeB1D9tGk/3TSrgAnBOeaDNR8T+4Q9H97E0EldiThfqjM0\n1eXSUod5iMVMmV3s9++2iKGEeS4v/gH5OpFsO4oUkO+e5LwP1oxgWYGBepwBjMr6\ndEUX6Yv3Ey8XEuyrLrv+kuny9JAUiluXoEaPrJ/hlaADyrvoHbJ+XlQ9AoGBALAF\nC5WlCpSFU2Mr166yorecmJoqWRaq1VD8ZOaX6BWf7b/CWiwB+vul9tf1GzP3XZSM\nsVFrnJuXlbFxpbeEZPmBDK/SC/uta888OTMzBSKbu7V0Qk4HbE7Uf9n5Mm20ZzCE\n4ciK2GKAiFl01UyZUXvFSpINI+OY0yVG8KLp7SMTAoGBAOHl868VBeELwu3LfnYF\nT+LyhY1CDfBxzaf5janCbTUcMygyBjRfKCM0zWQDH9Km0VSZItX7aNHbJHxDNtpb\nCzC00/siM5343fB284etpbUgDvWDt3yPKGihmMfGr+Dc0euGCdnN9vEflqHJiYJ8\nlxWrAKXgLCY1L0Ac6y+crrod\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-c2dwr@energy-of-water.iam.gserviceaccount.com",
+  "client_id": "118394108923178277644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-c2dwr%40energy-of-water.iam.gserviceaccount.com"
+}
